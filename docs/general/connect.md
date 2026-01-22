@@ -285,7 +285,7 @@ Below are the possible cabling configurations in the descending order of how muc
 
 (2) Cell balancing status for all daisy-chained batteries might be available on up-to-date firmware, but this hasn't been verified.
 
-(3) You can verify all information from this column is read successfully by checking whether `BMS` and `Pack` dates are shown for each of your batteries in Cerbo Settings -> Devices -> your battery -> Device -> Hardware Version.
+(3) High-resolution SOC and cumulative Ah drawn require firmware around v12 or later. For the full model, firmware version and production dates, you can verify these values are read successfully by checking whether `BMS` and `Pack` dates are shown for each of your batteries in Cerbo Settings -> Devices -> your battery -> Device -> Hardware Version.
 
 #### CAN
 
